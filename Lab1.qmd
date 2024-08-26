@@ -4,7 +4,7 @@ author: Section WRITE YOUR SECTION NUMBER HERE - WRITE YOUR NAME HERE
 format: pdf 
 ---
 
-1. ====Nic Schwab===
+1. ====name===
 2. Save the document by clicking the Save button above. 
 3. Return to Lab 1 instructions to learn how to commit and push you code.
-4. Fill out this week's reflections Google form to receive credit.
+4. Note: This is the only file you need to push in to get credit for lab 1. We will use the other files during the next class. 
